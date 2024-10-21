@@ -1,0 +1,27 @@
+body
+{
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(6,47,134,0.8743872549019608) 0%, rgba(0,212,255,1) 100%);
+}
+
+input[type=text]
+{
+  box-shadow: 0 0 0 0;
+  border: 0 none;
+  outline: 0;
+  background-color: white;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+}
+
+.end
+{
+  position: absolute;
+  top: 47%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  font-size: 200px;
+}
+
